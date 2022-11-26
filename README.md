@@ -8,3 +8,4 @@
  1] user : if he is user then he can only view the products
  2] seller: if he is seller then he can only (add, delete, update) the product and view the website as like user
 6) Admin Can see Total Users and Total Sellers in his Dashboard
+7) Use Mysql DB
